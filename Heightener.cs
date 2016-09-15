@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-// Class with single method to call GameController's LoadLevel() Function
+// Class with method to alter an objects Y position
 
 public class Heightener : MonoBehaviour {
 
